@@ -87,9 +87,4 @@ class Twisis(object):
 				    title=plot_title
 				)
 			})
-			
-
 		return final_data
-
-
-
