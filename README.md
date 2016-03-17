@@ -2,12 +2,12 @@
 Python module for twitter Analysis. <br>Twisis is combination of two words TWItter + analySIS
 
 # Dependencies
-1. tweepy - Python client for Twiiter API
+tweepy - Python client for Twiiter API
 ### Installing tweepy
 ```sh
 sudo pip install tweepy
 ```
-2. plotly - Pythn module for producing graphs
+plotly - Pythn module for producing graphs
 ### Installing plotly
 ```sh
 sudo pip install plotly
