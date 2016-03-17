@@ -65,13 +65,13 @@ class Twisis(object):
 			for each in final_data:
 				if a_type=='pos':
 					pos_data.append(each['positive_number'])
-					plot_title = "Positive sentimental analytics for tweets of #"+self.hashtag
+					plot_title = "Positive sentimental analytics for recent tweets of #"+self.hashtag
 				elif a_type=='neg':
 					pos_data.append(each['negative_number'])
-					plot_title = "Negative sentimental analytics for tweets of #"+self.hashtag
+					plot_title = "Negative sentimental analytics for recent tweets of #"+self.hashtag
 				elif a_type=='neu':
 					pos_data.append(each['neutral_number'])
-					plot_title = "Neutral sentimental analytics for tweets of #"+self.hashtag
+					plot_title = "Neutral sentimental analytics for recent tweets of #"+self.hashtag
 
 			# Create label list for x axix
 			labels = []
