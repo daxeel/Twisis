@@ -14,7 +14,7 @@ sudo pip install plotly
 ```
 
 # Getting started
-Let us analyze the recent tweets regarding "programming" topic.
+Let us analyze the positive sentimental of recent tweets regarding "programming" topic.
 ```py
 import twisis
 twisis_obj = twisis.Twisis('programming', 10)
