@@ -1,5 +1,5 @@
 # Twisis 
-Python module for twitter Analysis. <br>Twisis is combination of two words TWItter + analySIS
+Python module for twitter Analysis. <br>Twisis is combination of two words TWItter + analySIS <br>Twisis CLI support is coming soon.
 
 # Dependencies
 tweepy - Python client for Twiiter API
